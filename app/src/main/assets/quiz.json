@@ -1,0 +1,91 @@
+[
+  { "fact": "giants", "q": "How long is a blue whale?", "a": "About 30 metres", "w": ["About 12 metres", "About 55 metres", "About 80 metres"] },
+  { "fact": "giants", "q": "Which of these is the shortest?", "a": "A great white shark", "w": ["An orca", "A whale shark", "A sperm whale"] },
+
+  { "fact": "blue-whale", "q": "How heavy is a blue whale?", "a": "About 150 tonnes", "w": ["About 15 tonnes", "About 600 tonnes", "About 1,500 tonnes"] },
+  { "fact": "blue-whale", "q": "A blue whale heart is roughly the size of what?", "a": "A small car", "w": ["A football", "A microwave oven", "A double-decker bus"] },
+
+  { "fact": "light-ends", "q": "Roughly how much surface light is left at 200 metres?", "a": "About 1%", "w": ["About 25%", "About 50%", "None at all"] },
+  { "fact": "light-ends", "q": "Below roughly what depth is there no sunlight whatsoever?", "a": "1,000 m", "w": ["200 m", "4,000 m", "11,000 m"] },
+
+  { "fact": "why-blue", "q": "Which colour of light does seawater absorb first?", "a": "Red", "w": ["Blue", "Green", "Violet"] },
+  { "fact": "why-blue", "q": "Within about how many metres does red light effectively disappear?", "a": "5 m", "w": ["50 m", "200 m", "600 m"] },
+
+  { "fact": "plankton", "q": "Roughly what share of the oxygen in our atmosphere comes from phytoplankton?", "a": "About half", "w": ["About a tenth", "About a fifth", "Nearly all of it"] },
+  { "fact": "plankton", "q": "What are phytoplankton?", "a": "Drifting plants too small to see", "w": ["Tiny shrimp that graze on algae", "Larval fish near the surface", "Bacteria that live on the sea floor"] },
+
+  { "fact": "waves", "q": "What actually travels across the ocean in a wave?", "a": "The energy", "w": ["The water itself", "The seabed sediment", "A pressure front of air"] },
+  { "fact": "waves", "q": "What path does a floating object trace as a wave passes under it?", "a": "A circle, ending where it started", "w": ["A straight line forward", "A zig-zag toward shore", "A spiral that drifts down"] },
+
+  { "fact": "twilight", "q": "What depths does the twilight zone cover?", "a": "200 – 1,000 m", "w": ["0 – 200 m", "1,000 – 4,000 m", "4,000 – 11,000 m"] },
+  { "fact": "twilight", "q": "How does the twilight zone compare with the rest of the ocean for fish?", "a": "It holds more fish than all the rest combined", "w": ["It holds almost no fish at all", "It holds roughly a tenth of them", "It holds about the same as the reefs"] },
+
+  { "fact": "marine-snow", "q": "What is marine snow made of?", "a": "The remains of life from the sunlit zone", "w": ["Ice crystals formed under pressure", "Salt precipitating out of seawater", "Ash carried down from volcanoes"] },
+  { "fact": "marine-snow", "q": "Roughly how long does marine snow take to fall one kilometre?", "a": "Weeks", "w": ["Seconds", "A few minutes", "A century"] },
+
+  { "fact": "bioluminescence", "q": "Roughly what share of animals in the open ocean make their own light?", "a": "About 76%", "w": ["About 6%", "About 25%", "Essentially all of them"] },
+  { "fact": "bioluminescence", "q": "What colour is most ocean bioluminescence?", "a": "Blue-green", "w": ["Deep red", "Yellow", "Violet"] },
+
+  { "fact": "counter-light", "q": "What problem does counter-illumination solve?", "a": "Being seen as a silhouette from below", "w": ["Being too cold to move quickly", "Attracting prey in total darkness", "Finding a mate in open water"] },
+  { "fact": "counter-light", "q": "Where on the body are the lights that do it?", "a": "Along the belly", "w": ["On the tail fin", "Behind the eyes", "Along the spine"] },
+
+  { "fact": "migration", "q": "When does the daily vertical migration happen?", "a": "Up at dusk, down before dawn", "w": ["Up at dawn, down at dusk", "Only at full moon", "Once a month, on the tide"] },
+  { "fact": "migration", "q": "How was the migration first noticed?", "a": "As a false seabed on ship sonar that moved every day", "w": ["By divers counting fish at night", "From changes in the colour of the sea", "By tagging whales with depth recorders"] },
+
+  { "fact": "squid-eye", "q": "How wide is a giant squid eye?", "a": "About 27 cm", "w": ["About 3 cm", "About 8 cm", "About 60 cm"] },
+  { "fact": "squid-eye", "q": "What is that enormous eye thought to be for?", "a": "Spotting an approaching sperm whale", "w": ["Reading the polarisation of sunlight", "Seeing colour at great depth", "Judging distance while jetting backwards"] },
+
+  { "fact": "midnight", "q": "How much sunlight reaches the midnight zone?", "a": "None at all", "w": ["About 1%", "About 5% at noon", "Enough for algae to grow"] },
+  { "fact": "midnight", "q": "Roughly what share of the living space on Earth is dark deep water?", "a": "More than 90%", "w": ["About 10%", "About a third", "Just over half"] },
+
+  { "fact": "four-degrees", "q": "What is the temperature of most of the deep ocean?", "a": "Between 0 and 4 °C", "w": ["Around 15 °C", "Below freezing everywhere", "It varies hugely with latitude"] },
+  { "fact": "four-degrees", "q": "How much does deep ocean temperature change between the tropics and the poles?", "a": "Almost not at all", "w": ["By about 20 degrees", "By about 40 degrees", "It reverses completely"] },
+
+  { "fact": "anglerfish", "q": "Where does the light in an anglerfish lure come from?", "a": "Bacteria she keeps alive inside it", "w": ["A chemical she makes in her liver", "Reflected light from the surface", "Phosphorus absorbed from her prey"] },
+  { "fact": "anglerfish", "q": "Why does a glowing lure work so well down there?", "a": "In the dark, light means food", "w": ["It warms the water around it", "It confuses sonar-using predators", "It mimics the colour of the seabed"] },
+
+  { "fact": "fused-male", "q": "What happens to a male anglerfish after he finds a female?", "a": "He fuses to her and is absorbed", "w": ["He guards the eggs until they hatch", "He dies immediately and sinks", "He leaves and finds another female"] },
+  { "fact": "fused-male", "q": "How large is the male compared with the female?", "a": "A few centimetres against about a metre", "w": ["Roughly the same size", "Around twice her size", "About half her size"] },
+
+  { "fact": "whale-fall", "q": "How long can a whale fall keep feeding the sea floor?", "a": "Decades, sometimes a century", "w": ["A few hours", "About a week", "Around a month"] },
+  { "fact": "whale-fall", "q": "What eventually lives on the bones themselves?", "a": "Bacteria feeding on the oil inside them", "w": ["Corals that need the calcium", "Deep-sea plants using vent light", "Crabs that digest bone directly"] },
+
+  { "fact": "dumbo", "q": "How deep was the record dumbo octopus filmed?", "a": "6,957 m", "w": ["957 m", "3,957 m", "10,957 m"] },
+  { "fact": "dumbo", "q": "How does a dumbo octopus swim?", "a": "By flapping two ear-like fins", "w": ["By jetting water from a siphon", "By walking on its arms", "By inflating and drifting upward"] },
+
+  { "fact": "challenger-deep", "q": "How deep is the Challenger Deep?", "a": "About 10,935 m", "w": ["About 3,800 m", "About 8,849 m", "About 16,000 m"] },
+  { "fact": "challenger-deep", "q": "If Everest stood on the bottom of it, where would the summit be?", "a": "More than two kilometres under water", "w": ["Just breaking the surface", "About a kilometre above the waves", "Level with the surface exactly"] },
+
+  { "fact": "pressure", "q": "Roughly what is the pressure at the bottom of the Challenger Deep?", "a": "About 1,086 bar", "w": ["About 10 bar", "About 100 bar", "About 10,000 bar"] },
+  { "fact": "pressure", "q": "What happens to a polystyrene cup sent to the bottom?", "a": "It comes back the size of a thimble", "w": ["It dissolves completely", "It comes back unchanged", "It shatters into fragments"] },
+
+  { "fact": "snailfish", "q": "What is the deepest a fish has ever been filmed?", "a": "8,336 m", "w": ["3,336 m", "6,336 m", "10,336 m"] },
+  { "fact": "snailfish", "q": "Why are there no fish below about 8,400 metres?", "a": "The chemical protecting their cells stops working", "w": ["There is no food at all below it", "The water is too cold to swim in", "The sea floor stops at that depth"] },
+
+  { "fact": "vents", "q": "What sits at the bottom of the food chain around a hydrothermal vent?", "a": "Bacteria living on hydrogen sulphide", "w": ["Algae using faint blue light", "Marine snow falling from above", "Plankton carried down by currents"] },
+  { "fact": "vents", "q": "Why does 400 °C vent fluid not boil?", "a": "The pressure is far too high", "w": ["It is too salty to boil", "It cools instantly on contact", "It is not really water"] },
+
+  { "fact": "visitors", "q": "How many people have walked on the Moon?", "a": "12", "w": ["6", "27", "50"] },
+  { "fact": "visitors", "q": "How does the number of people who have reached the Challenger Deep compare?", "a": "Fewer than have walked on the Moon", "w": ["About ten times as many", "Roughly a thousand", "Exactly the same number"] },
+
+  { "fact": "unmapped", "q": "Roughly how much of the sea floor has been mapped at modern resolution?", "a": "About a quarter", "w": ["About three quarters", "Almost all of it", "Less than one per cent"] },
+  { "fact": "unmapped", "q": "How is the rest of the sea floor charted?", "a": "Inferred from satellite gravity measurements", "w": ["Guessed from ocean currents", "Copied from nineteenth-century soundings", "Modelled from tide gauges"] },
+
+  { "fact": "titanic", "q": "How deep does the Titanic lie?", "a": "About 3,800 m", "w": ["About 380 m", "About 1,200 m", "About 8,000 m"] },
+  { "fact": "titanic", "q": "What is slowly destroying the wreck?", "a": "Iron-eating bacteria", "w": ["Deep-sea currents grinding it down", "Pressure crushing the hull", "Salt crystallising in the steel"] },
+
+  { "fact": "water-cycle", "q": "Roughly how much of Earth water is in the ocean?", "a": "About 97%", "w": ["About 50%", "About 70%", "About 99.9%"] },
+  { "fact": "water-cycle", "q": "How old is the water you drink?", "a": "Around four billion years", "w": ["A few decades", "About ten thousand years", "It is newly made by rainfall"] },
+
+  { "fact": "tides", "q": "Why are there two high tides a day rather than one?", "a": "There is a bulge on both sides of the Earth", "w": ["The Sun makes the second one", "The Earth wobbles twice a day", "The Moon orbits twice a day"] },
+  { "fact": "tides", "q": "Where is the largest tidal range in the world?", "a": "The Bay of Fundy", "w": ["The Mediterranean", "The Bay of Bengal", "The Red Sea"] },
+
+  { "fact": "amazon", "q": "How much water does the Amazon discharge every second?", "a": "About 209,000 cubic metres", "w": ["About 2,000 cubic metres", "About 20,000 cubic metres", "About 2 million cubic metres"] },
+  { "fact": "amazon", "q": "How does the Amazon compare with the next seven largest rivers?", "a": "It discharges more than all of them combined", "w": ["It is about equal to the next one", "It is third largest overall", "It discharges about half as much"] },
+
+  { "fact": "garbage-patch", "q": "What is the Great Pacific Garbage Patch actually like?", "a": "A soup of fragments spread through the water", "w": ["A solid floating island", "A layer of oil on the surface", "A reef built out of bottles"] },
+  { "fact": "garbage-patch", "q": "Roughly how large an area does it cover?", "a": "About 1.6 million km²", "w": ["About 1,600 km²", "About 16,000 km²", "About 160 million km²"] },
+
+  { "fact": "conveyor", "q": "How long does one circuit of the global conveyor take?", "a": "About a thousand years", "w": ["About a year", "About a decade", "About a million years"] },
+  { "fact": "conveyor", "q": "What drives the global conveyor?", "a": "Differences in temperature and saltiness", "w": ["The pull of the Moon", "Wind alone", "The rotation of the sea floor"] }
+]

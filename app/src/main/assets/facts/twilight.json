@@ -1,0 +1,99 @@
+[
+  {
+    "id": "twilight",
+    "cat": "The Descent",
+    "accent": "7e7bf0",
+    "scene": "TWI_ENTER",
+    "hero": 6.5,
+    "depthM": 600,
+    "title": "The Twilight Zone",
+    "sub": "A blue so faint your eyes invent it",
+    "blurb": "Between 200 and 1,000 metres there is just enough light to know which way is up, and not enough for anything to grow. It is the largest habitat on the planet, and it holds more fish than the whole of the rest of the ocean put together.",
+    "stats": [
+      ["Depth", "200 – 1,000 m"],
+      ["Light at 200 m", "about 1%"],
+      ["Light at 1,000 m", "none"],
+      ["Fish biomass", "more than all the rest combined"]
+    ]
+  },
+  {
+    "id": "marine-snow",
+    "cat": "The Descent",
+    "accent": "bcd4e4",
+    "scene": "TWI_SNOW",
+    "hero": 6.0,
+    "depthM": 800,
+    "title": "Marine Snow",
+    "sub": "It has been snowing here for ever",
+    "blurb": "A constant drift of dead plankton, faeces and the shed parts of everything living above. It takes weeks to fall a kilometre, it feeds the entire deep sea, and it carries billions of tonnes of carbon out of the air and down into the floor every year.",
+    "stats": [
+      ["Fall time", "weeks per kilometre"],
+      ["What it is", "the remains of the sunlit zone"],
+      ["Carbon carried down", "billions of tonnes a year"]
+    ]
+  },
+  {
+    "id": "bioluminescence",
+    "cat": "Living Light",
+    "accent": "6fffe0",
+    "scene": "TWI_BIOLUM",
+    "hero": 7.5,
+    "depthM": 700,
+    "title": "Most Life Here Glows",
+    "sub": "Down here, glowing is normal",
+    "blurb": "Surveys of the open ocean find that roughly three quarters of the animals make their own light. On land bioluminescence is a curiosity; in the sea it is the commonest way to be alive, used for hunting, hiding, warning and finding a mate.",
+    "stats": [
+      ["Animals that glow", "about 76%"],
+      ["Usual colour", "blue-green"],
+      ["Why blue", "it travels furthest in water"]
+    ]
+  },
+  {
+    "id": "counter-light",
+    "cat": "Living Light",
+    "accent": "9fd8ff",
+    "scene": "TWI_COUNTER",
+    "hero": 6.8,
+    "depthM": 500,
+    "title": "Counter-Illumination",
+    "sub": "The best place to hide is inside the light",
+    "blurb": "Seen from below, anything solid is a silhouette against the faint glow from the surface. So lanternfish and many squid light their own bellies to exactly the brightness of the water above them, and erase their own outline.",
+    "stats": [
+      ["What it defeats", "being seen from below"],
+      ["Organ", "photophores along the belly"],
+      ["Accuracy", "matched to the light above"]
+    ]
+  },
+  {
+    "id": "migration",
+    "cat": "Strange Life",
+    "accent": "a9b2ff",
+    "scene": "TWI_MIGRATION",
+    "hero": 5.5,
+    "depthM": 450,
+    "title": "The Biggest Migration on Earth",
+    "sub": "And it happens every single night",
+    "blurb": "At dusk, billions of tonnes of animals climb hundreds of metres to feed in the dark, and sink again before dawn. Ships first found it as a false bottom on their sonar — a seabed that rose every evening and fell every morning.",
+    "stats": [
+      ["When", "every night, everywhere"],
+      ["Distance", "hundreds of metres, each way"],
+      ["First seen as", "a seabed that moved"]
+    ]
+  },
+  {
+    "id": "squid-eye",
+    "cat": "Strange Life",
+    "accent": "ffb0a0",
+    "scene": "TWI_SQUID",
+    "hero": 7.4,
+    "depthM": 900,
+    "title": "The Giant Squid Eye",
+    "sub": "The largest eye in the animal kingdom",
+    "blurb": "About 27 centimetres across — the size of a dinner plate, and ten times the width of a human eye. It is almost certainly built to catch one thing: the faint glow stirred up by a sperm whale coming to eat it.",
+    "stats": [
+      ["Eye diameter", "about 27 cm"],
+      ["Human eye", "about 2.4 cm"],
+      ["Probable purpose", "spotting an approaching sperm whale"]
+    ]
+  }
+]

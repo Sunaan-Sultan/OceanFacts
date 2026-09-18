@@ -1,0 +1,133 @@
+[
+  {
+    "name": "The Surface",
+    "sub": "Where everything you know lives",
+    "depthText": "0 m",
+    "depthM": 0,
+    "kind": "SURFACE",
+    "colors": ["cffaff", "7fd8ec", "2f8fb4"],
+    "glow": "55cffaff"
+  },
+  {
+    "name": "Recreational Diving",
+    "sub": "The limit on a normal scuba ticket",
+    "depthText": "40 m",
+    "depthM": 40,
+    "kind": "DIVER",
+    "colors": ["ffd05c", "e08a3c", "8a4a1c"]
+  },
+  {
+    "name": "Sunlight Ends",
+    "sub": "The last depth a plant can live at",
+    "depthText": "200 m",
+    "depthM": 200,
+    "kind": "LANDMARK",
+    "colors": ["bff0ff", "6fc8e0", "24607c"]
+  },
+  {
+    "name": "Free-diving Record",
+    "sub": "Herbert Nitsch, on one breath",
+    "depthText": "214 m",
+    "depthM": 214,
+    "kind": "DIVER",
+    "colors": ["ffe0a0", "e0a04c", "8a5a1c"]
+  },
+  {
+    "name": "Emperor Penguin",
+    "sub": "The deepest dive by any bird",
+    "depthText": "564 m",
+    "depthM": 564,
+    "kind": "ANIMAL",
+    "colors": ["f2f6fa", "3d5060", "121c26"]
+  },
+  {
+    "name": "Giant Squid",
+    "sub": "Hunting in the twilight zone",
+    "depthText": "1,000 m",
+    "depthM": 1000,
+    "kind": "ANIMAL",
+    "colors": ["f0a898", "c4614e", "6b2a20"]
+  },
+  {
+    "name": "Leatherback Turtle",
+    "sub": "Deeper than any other reptile",
+    "depthText": "1,280 m",
+    "depthM": 1280,
+    "kind": "ANIMAL",
+    "colors": ["8fa0a8", "44555f", "17232b"]
+  },
+  {
+    "name": "Sperm Whale",
+    "sub": "Down for an hour, after squid",
+    "depthText": "2,250 m",
+    "depthM": 2250,
+    "kind": "ANIMAL",
+    "colors": ["a89c92", "645750", "24201d"]
+  },
+  {
+    "name": "Hydrothermal Vents",
+    "sub": "Life with no use for the sun",
+    "depthText": "2,500 m",
+    "depthM": 2500,
+    "kind": "LANDMARK",
+    "colors": ["ff9e5c", "c4542c", "5c2010"],
+    "glow": "66ff8a4c"
+  },
+  {
+    "name": "Cuvier Beaked Whale",
+    "sub": "The deepest dive ever recorded by a mammal",
+    "depthText": "2,992 m",
+    "depthM": 2992,
+    "kind": "ANIMAL",
+    "colors": ["9a9088", "554d48", "1d1a18"]
+  },
+  {
+    "name": "Average Ocean Depth",
+    "sub": "Half the sea floor is deeper than this",
+    "depthText": "3,682 m",
+    "depthM": 3682,
+    "kind": "SEAFLOOR",
+    "colors": ["5c7484", "32444f", "141e26"]
+  },
+  {
+    "name": "Titanic",
+    "sub": "Lost in 1912, found in 1985",
+    "depthText": "3,800 m",
+    "depthM": 3800,
+    "kind": "WRECK",
+    "colors": ["d8b884", "8a5a32", "3a2c22"]
+  },
+  {
+    "name": "Dumbo Octopus",
+    "sub": "The deepest octopus ever filmed",
+    "depthText": "6,957 m",
+    "depthM": 6957,
+    "kind": "ANIMAL",
+    "colors": ["ffd0b0", "d4785a", "6b2c22"]
+  },
+  {
+    "name": "Deepest Fish",
+    "sub": "A snailfish, at the limit of fish chemistry",
+    "depthText": "8,336 m",
+    "depthM": 8336,
+    "kind": "ANIMAL",
+    "colors": ["ffe4d4", "e0b49c", "8a5a48"]
+  },
+  {
+    "name": "Everest, Inverted",
+    "sub": "The tallest thing on land, for scale",
+    "depthText": "8,849 m",
+    "depthM": 8849,
+    "kind": "LANDMARK",
+    "colors": ["e8f4ff", "9fb8cc", "3e5567"]
+  },
+  {
+    "name": "Challenger Deep",
+    "sub": "The bottom of the world",
+    "depthText": "10,935 m",
+    "depthM": 10935,
+    "kind": "SEAFLOOR",
+    "colors": ["7fb4d0", "35586e", "0b1a24"],
+    "glow": "447fb4d0"
+  }
+]

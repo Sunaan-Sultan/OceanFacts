@@ -1,0 +1,102 @@
+[
+  {
+    "id": "titanic",
+    "cat": "Down There",
+    "accent": "d8b884",
+    "scene": "DD_TITANIC",
+    "hero": 5.8,
+    "depthM": 3800,
+    "title": "Titanic, 3,800 m Down",
+    "sub": "Being eaten, slowly, by bacteria",
+    "blurb": "She sank in 1912 and was not found until 1985, lying in two pieces under 380 atmospheres in permanent darkness at about 1 °C. Iron-eating bacteria are taking her apart from the inside; the rust hangs off the hull in icicles that had no name until she was found.",
+    "stats": [
+      ["Depth", "about 3,800 m"],
+      ["Sank", "1912"],
+      ["Found", "1985"],
+      ["Being eaten by", "iron-consuming bacteria"]
+    ]
+  },
+  {
+    "id": "water-cycle",
+    "cat": "The Whole System",
+    "accent": "8fd8ff",
+    "scene": "DD_WATERCYCLE",
+    "hero": 5.0,
+    "depthM": 0,
+    "title": "Every Drop Has Been Everywhere",
+    "sub": "The planet has had the same water for four billion years",
+    "blurb": "Water leaves the ocean as vapour, falls as rain, runs down rivers and returns. Almost none is created and almost none is lost, so the water in your glass has been through clouds, rivers, animals and the deep sea more times than can be counted.",
+    "stats": [
+      ["Water in the ocean", "about 97%"],
+      ["Age of that water", "about 4 billion years"],
+      ["Fresh and liquid and available", "well under 1%"]
+    ]
+  },
+  {
+    "id": "tides",
+    "cat": "The Whole System",
+    "accent": "dfe6ff",
+    "scene": "DD_TIDES",
+    "hero": 6.4,
+    "depthM": 0,
+    "title": "The Moon Lifts the Ocean",
+    "sub": "Two bulges, and two high tides a day",
+    "blurb": "The Moon pulls the near side of the ocean toward it and pulls the Earth away from the far side, leaving a bulge at both ends. The coast then rotates through them. In the Bay of Fundy the difference between high and low water reaches 16 metres.",
+    "stats": [
+      ["High tides per day", "two"],
+      ["Why two", "one bulge pulled, one left behind"],
+      ["Largest range", "16 m, Bay of Fundy"]
+    ]
+  },
+  {
+    "id": "amazon",
+    "cat": "Where Rivers End",
+    "accent": "7fe0b4",
+    "scene": "DD_AMAZON",
+    "hero": 7.6,
+    "depthM": 10,
+    "title": "The River That Out-Pours Seven",
+    "sub": "A fifth of all the river water on Earth",
+    "blurb": "The Amazon discharges around 209,000 cubic metres a second — more than the next seven largest rivers combined. Its plume of fresh, silted water stays recognisable hundreds of kilometres out to sea, and ships once refilled their barrels out of sight of land.",
+    "stats": [
+      ["Discharge", "about 209,000 m³ per second"],
+      ["Against the next seven rivers", "more than all of them"],
+      ["Share of river water reaching the sea", "about 20%"],
+      ["Plume detectable", "hundreds of km offshore"]
+    ]
+  },
+  {
+    "id": "garbage-patch",
+    "cat": "What We Left",
+    "accent": "ffd05c",
+    "scene": "DD_GYRE",
+    "hero": 6.2,
+    "depthM": 5,
+    "title": "The Great Pacific Garbage Patch",
+    "sub": "Not an island. A soup.",
+    "blurb": "A gyre of currents concentrates floating plastic across roughly 1.6 million square kilometres. You could sail through it and see almost nothing: most of it is fragments smaller than a grain of rice, suspended through the water rather than floating on it — which is exactly why it is so hard to clean up.",
+    "stats": [
+      ["Area", "about 1,600,000 km²"],
+      ["Compared with France", "about three times"],
+      ["Mostly made of", "fragments under 5 mm"],
+      ["Visible from the deck", "barely"]
+    ]
+  },
+  {
+    "id": "conveyor",
+    "cat": "The Whole System",
+    "accent": "8fc8ff",
+    "scene": "DD_CONVEYOR",
+    "hero": 7.0,
+    "depthM": 3000,
+    "title": "The Global Conveyor",
+    "sub": "One lap takes a thousand years",
+    "blurb": "Warm surface water flows north, cools, grows salty and sinks, then crawls back along the sea floor for centuries before welling up again on the other side of the world. Water sinking off Greenland today will surface in the Pacific in roughly a thousand years.",
+    "stats": [
+      ["One full circuit", "about 1,000 years"],
+      ["Driven by", "temperature and salt"],
+      ["What it carries", "heat, on a planetary scale"],
+      ["Why it matters", "it is why Europe is mild"]
+    ]
+  }
+]

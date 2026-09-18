@@ -1,0 +1,120 @@
+{
+  "explorable": [
+    {
+      "id": "sunlit",
+      "factsFile": "facts/sunlit.json",
+      "meta": {
+        "label": "Sunlight Zone",
+        "eyebrow": "0 – 200 m",
+        "eyebrowColor": "3fd7c4",
+        "title": "The Sunlight Zone",
+        "blurb": "The thin lit skin of the sea, where almost everything you have ever seen or eaten lives."
+      },
+      "featured": {
+        "scene": "SUN_WHALE",
+        "dur": 9.4,
+        "hero": 7.0,
+        "depthM": 30,
+        "pill": "0 – 200 m",
+        "pillColor": "3fd7c4",
+        "title": "Sunlight Zone",
+        "tagline": "Where the light still reaches"
+      }
+    },
+    {
+      "id": "twilight",
+      "factsFile": "facts/twilight.json",
+      "meta": {
+        "label": "Twilight Zone",
+        "eyebrow": "200 – 1,000 m",
+        "eyebrowColor": "7e7bf0",
+        "title": "The Twilight Zone",
+        "blurb": "One per cent of the surface light, and more fish than the rest of the ocean put together."
+      },
+      "featured": {
+        "scene": "TWI_BIOLUM",
+        "dur": 9.4,
+        "hero": 7.5,
+        "depthM": 700,
+        "pill": "200 – 1,000 m",
+        "pillColor": "7e7bf0",
+        "title": "Twilight Zone",
+        "tagline": "The last of the blue"
+      }
+    },
+    {
+      "id": "midnight",
+      "factsFile": "facts/midnight.json",
+      "meta": {
+        "label": "Midnight Zone",
+        "eyebrow": "1,000 – 4,000 m",
+        "eyebrowColor": "3be8ff",
+        "title": "The Midnight Zone",
+        "blurb": "No sunlight has ever reached here. The only light is the light that living things make."
+      },
+      "featured": {
+        "scene": "MID_ANGLER",
+        "dur": 9.4,
+        "hero": 7.5,
+        "depthM": 2500,
+        "pill": "1,000 – 4,000 m",
+        "pillColor": "3be8ff",
+        "title": "Midnight Zone",
+        "tagline": "Permanent night"
+      }
+    },
+    {
+      "id": "trench",
+      "factsFile": "facts/trench.json",
+      "meta": {
+        "label": "The Trenches",
+        "eyebrow": "4,000 – 11,000 m",
+        "eyebrowColor": "ff8a4c",
+        "title": "The Trenches",
+        "blurb": "The deepest places on the planet, under a thousand atmospheres — and still not empty."
+      },
+      "featured": {
+        "scene": "TR_CHALLENGER",
+        "dur": 9.4,
+        "hero": 8.5,
+        "depthM": 10935,
+        "pill": "4,000 – 11,000 m",
+        "pillColor": "ff8a4c",
+        "title": "The Trenches",
+        "tagline": "The bottom of the world"
+      }
+    }
+  ],
+  "locked": [
+    {
+      "name": "Coral Reefs",
+      "depth": "0 – 50 m",
+      "desc": "A quarter of all marine species on 0.1% of the floor",
+      "colors": ["ffb0c4", "e0607f", "7a2440"]
+    },
+    {
+      "name": "Kelp Forests",
+      "depth": "0 – 40 m",
+      "desc": "Growing half a metre a day",
+      "colors": ["d8d068", "8a9a34", "2e3a12"]
+    },
+    {
+      "name": "Polar Seas",
+      "depth": "Under the ice",
+      "desc": "Water that stays liquid below freezing",
+      "colors": ["dff2ff", "8fc0e0", "2f5a7a"]
+    },
+    {
+      "name": "Rivers and Estuaries",
+      "depth": "Fresh to salt",
+      "desc": "Where the land hands its water over",
+      "colors": ["b4d8a0", "5f8f5c", "23401f"]
+    },
+    {
+      "name": "Seamounts",
+      "depth": "1,000 – 4,000 m",
+      "desc": "Underwater mountains, mostly unvisited",
+      "colors": ["b0a898", "6a5f52", "2a251d"]
+    }
+  ]
+}

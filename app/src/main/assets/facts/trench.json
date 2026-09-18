@@ -1,0 +1,103 @@
+[
+  {
+    "id": "challenger-deep",
+    "cat": "The Deepest Place",
+    "accent": "9fd0e8",
+    "scene": "TR_CHALLENGER",
+    "hero": 8.5,
+    "depthM": 10935,
+    "title": "Challenger Deep",
+    "sub": "Drop Everest in and you still need rope",
+    "blurb": "The deepest surveyed point on Earth sits at the southern end of the Mariana Trench, about 10,935 metres down. Stand Everest on the bottom of it and the summit would still be more than two kilometres under water.",
+    "stats": [
+      ["Depth", "about 10,935 m"],
+      ["Everest", "8,849 m"],
+      ["Water still above the summit", "about 2,086 m"],
+      ["Where", "Mariana Trench, western Pacific"]
+    ]
+  },
+  {
+    "id": "pressure",
+    "cat": "The Deepest Place",
+    "accent": "ffa46a",
+    "scene": "TR_PRESSURE",
+    "hero": 7.4,
+    "depthM": 10935,
+    "title": "Eight Tonnes on a Thumbnail",
+    "sub": "A thousand atmospheres, all at once",
+    "blurb": "At the bottom of the Challenger Deep the pressure is around 1,086 bar — roughly a thousand times what you are under now, and about eight tonnes on every square inch. A polystyrene cup sent down comes back the size of a thimble.",
+    "stats": [
+      ["Pressure", "about 1,086 bar"],
+      ["Compared with the surface", "about 1,000 times"],
+      ["Per square inch", "about 8 tonnes"],
+      ["A cup sent down", "comes back a thimble"]
+    ]
+  },
+  {
+    "id": "snailfish",
+    "cat": "Life at the Limit",
+    "accent": "ffd0b8",
+    "scene": "TR_SNAILFISH",
+    "hero": 8.4,
+    "depthM": 8336,
+    "title": "The Deepest Fish",
+    "sub": "And the depth no fish can pass",
+    "blurb": "A snailfish was filmed at 8,336 metres in the Izu-Ogasawara Trench in 2022. It is close to a hard limit: the chemical that keeps fish cells working under pressure stops being able to do so at about 8,400 metres, and below that the trenches are fishless.",
+    "stats": [
+      ["Deepest fish filmed", "8,336 m"],
+      ["Where", "Izu-Ogasawara Trench, 2022"],
+      ["Believed limit", "about 8,400 m"],
+      ["Below that", "no fish at all"]
+    ]
+  },
+  {
+    "id": "vents",
+    "cat": "Life at the Limit",
+    "accent": "ff8a4c",
+    "scene": "TR_VENTS",
+    "hero": 7.8,
+    "depthM": 2500,
+    "title": "Life Without the Sun",
+    "sub": "A whole world that ignores the surface",
+    "blurb": "Hydrothermal vents pour out water at up to 400 °C, too pressurised to boil. Nothing here eats sunlight: the base of the food chain is bacteria living on hydrogen sulphide. Until 1977 nobody thought an ecosystem could work this way.",
+    "stats": [
+      ["Vent fluid", "up to about 400 °C"],
+      ["Why it does not boil", "the pressure"],
+      ["Energy source", "chemistry, not sunlight"],
+      ["Discovered", "1977"]
+    ]
+  },
+  {
+    "id": "visitors",
+    "cat": "Unexplored",
+    "accent": "bfe0f0",
+    "scene": "TR_VISITS",
+    "hero": 8.6,
+    "depthM": 10935,
+    "title": "Fewer Than the Moon",
+    "sub": "More people have stood on another world",
+    "blurb": "Twelve people have walked on the Moon. Fewer than thirty have reached the bottom of the Challenger Deep, eleven kilometres below a boat you could stand on. Space is far away; the deep sea is simply hard.",
+    "stats": [
+      ["Walked on the Moon", "12"],
+      ["Reached Challenger Deep", "fewer than 30"],
+      ["Distance to the Moon", "384,400 km"],
+      ["Distance to the bottom", "about 11 km"]
+    ]
+  },
+  {
+    "id": "unmapped",
+    "cat": "Unexplored",
+    "accent": "7fd4e8",
+    "scene": "TR_MAPPED",
+    "hero": 7.0,
+    "depthM": 5000,
+    "title": "We Have Better Maps of Mars",
+    "sub": "Most of our own planet is a blur",
+    "blurb": "Only about a quarter of the sea floor has been mapped at modern resolution. The rest is inferred from satellite gravity measurements, which means whole mountain ranges are drawn as smudges. Mars, the Moon and Venus are all better charted.",
+    "stats": [
+      ["Sea floor mapped in detail", "about 26%"],
+      ["The rest", "inferred from satellite gravity"],
+      ["Better mapped than our sea floor", "Mars, the Moon, Venus"]
+    ]
+  }
+]

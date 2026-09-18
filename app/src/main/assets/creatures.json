@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Human",
+    "lengthM": 1.7,
+    "kind": "HUMAN",
+    "colors": ["e8d4c0", "c79f80", "7d5b46"]
+  },
+  {
+    "name": "Great White Shark",
+    "lengthM": 4.6,
+    "kind": "SHARK",
+    "colors": ["b9c7cf", "6c8390", "2c3d47"]
+  },
+  {
+    "name": "Orca",
+    "lengthM": 8.0,
+    "kind": "WHALE",
+    "colors": ["e8f0f4", "3a4a55", "0d161c"]
+  },
+  {
+    "name": "Whale Shark",
+    "lengthM": 12.0,
+    "kind": "SHARK",
+    "colors": ["9fbcc8", "44677a", "152c3a"]
+  },
+  {
+    "name": "Sperm Whale",
+    "lengthM": 16.0,
+    "kind": "WHALE",
+    "colors": ["a89c92", "645750", "24201d"]
+  },
+  {
+    "name": "Blue Whale",
+    "lengthM": 30.0,
+    "kind": "WHALE",
+    "colors": ["9dbccd", "46708c", "162f44"]
+  }
+]

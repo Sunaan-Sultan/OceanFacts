@@ -1,0 +1,100 @@
+[
+  {
+    "id": "giants",
+    "cat": "Giants",
+    "accent": "3fd7c4",
+    "scene": "SUN_SIZES",
+    "hero": 9.0,
+    "depthM": 20,
+    "title": "Ocean Giants",
+    "sub": "Six animals, one scale",
+    "blurb": "Put a swimmer, a great white, an orca, a whale shark, a sperm whale and a blue whale at the same scale and the last row stops being a statistic. The sea grows animals a size the land has never managed to support.",
+    "stats": [
+      ["Blue whale", "30 m"],
+      ["Sperm whale", "16 m"],
+      ["Great white shark", "4.6 m"]
+    ]
+  },
+  {
+    "id": "blue-whale",
+    "cat": "Giants",
+    "accent": "5fd8e8",
+    "scene": "SUN_WHALE",
+    "hero": 6.0,
+    "depthM": 30,
+    "title": "The Largest Animal Ever",
+    "sub": "Bigger than any dinosaur, and still here",
+    "blurb": "A blue whale runs to 30 metres and 150 tonnes — heavier than any dinosaur ever found. Its heart is the size of a small car and beats about eight times a minute while it dives.",
+    "stats": [
+      ["Length", "up to 30 m"],
+      ["Weight", "about 150 t"],
+      ["Call", "188 dB, louder than a jet"],
+      ["Heartbeat", "8 beats a minute at depth"]
+    ]
+  },
+  {
+    "id": "light-ends",
+    "cat": "Light",
+    "accent": "9ed8e6",
+    "scene": "SUN_LIGHT",
+    "hero": 8.0,
+    "depthM": 120,
+    "title": "Where the Light Ends",
+    "sub": "Sunlight runs out long before the water does",
+    "blurb": "Only about one per cent of surface light reaches 200 metres, which is the last depth at which a plant can make a living. By 1,000 metres there is no sunlight at all — and the ocean averages 3,682 metres deep.",
+    "stats": [
+      ["Light at 200 m", "about 1%"],
+      ["Last sunlight", "about 1,000 m"],
+      ["Average ocean depth", "3,682 m"]
+    ]
+  },
+  {
+    "id": "why-blue",
+    "cat": "Light",
+    "accent": "4aa8ff",
+    "scene": "SUN_BLUE",
+    "hero": 6.5,
+    "depthM": 40,
+    "title": "Why the Sea Is Blue",
+    "sub": "Blue is what is left over",
+    "blurb": "Water absorbs the long wavelengths first. Red is effectively gone within five metres, orange by twenty, yellow by forty, green by eighty. Blue is simply the colour that survives longest, which is why everything down there looks like it.",
+    "stats": [
+      ["Red gone by", "about 5 m"],
+      ["Yellow gone by", "about 40 m"],
+      ["Green gone by", "about 80 m"],
+      ["Blood at 30 m", "looks green"]
+    ]
+  },
+  {
+    "id": "plankton",
+    "cat": "Living Water",
+    "accent": "7fe0b4",
+    "scene": "SUN_PLANKTON",
+    "hero": 6.0,
+    "depthM": 15,
+    "title": "Half the Air You Breathe",
+    "sub": "Every second breath came from the sea",
+    "blurb": "Phytoplankton are drifting plants too small to see, and together they produce roughly half of the oxygen in the atmosphere. They out-produce every forest on land, and a single drop of seawater can hold thousands of them.",
+    "stats": [
+      ["Share of our oxygen", "about 50%"],
+      ["Size", "mostly under 0.05 mm"],
+      ["In one drop of seawater", "thousands"]
+    ]
+  },
+  {
+    "id": "waves",
+    "cat": "Living Water",
+    "accent": "bff0ff",
+    "scene": "SUN_WAVE",
+    "hero": 7.0,
+    "depthM": 0,
+    "title": "Waves Move, Water Does Not",
+    "sub": "What crosses the ocean is energy",
+    "blurb": "A float on a passing wave traces a circle and ends up where it started. The crest travels; the water only goes round. A Pacific swell can cross 10,000 kilometres while the sea it passes through barely moves at all.",
+    "stats": [
+      ["What travels", "the energy, not the water"],
+      ["Water motion", "a closed circle"],
+      ["Swell range", "up to 10,000 km"]
+    ]
+  }
+]

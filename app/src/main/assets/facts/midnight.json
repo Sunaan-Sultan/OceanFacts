@@ -1,0 +1,101 @@
+[
+  {
+    "id": "midnight",
+    "cat": "Endless Night",
+    "accent": "59d8f0",
+    "scene": "MID_DARK",
+    "hero": 7.0,
+    "depthM": 2500,
+    "title": "Eternal Night",
+    "sub": "Most of the living world has never seen the sun",
+    "blurb": "The ocean is almost all of the habitable volume on this planet, and almost all of that is deep water in permanent darkness. The lit layer everything you have ever photographed lives in is under two per cent of the column.",
+    "stats": [
+      ["Depth", "1,000 – 4,000 m"],
+      ["Sunlight", "none, ever"],
+      ["Share of living space", "more than 90%"],
+      ["Lit layer", "the top 200 m"]
+    ]
+  },
+  {
+    "id": "four-degrees",
+    "cat": "Endless Night",
+    "accent": "8fd4ff",
+    "scene": "MID_COLD",
+    "hero": 7.6,
+    "depthM": 2000,
+    "title": "Four Degrees, Everywhere",
+    "sub": "Tropical or polar, it makes no difference",
+    "blurb": "The warm water you swim in is a skin a few hundred metres thick. Below the thermocline the temperature falls away and then simply stops changing: around 90% of the ocean sits between 0 and 4 °C, from the equator to the poles.",
+    "stats": [
+      ["Deep ocean temperature", "0 – 4 °C"],
+      ["Share of the ocean", "about 90%"],
+      ["Varies with latitude", "almost not at all"]
+    ]
+  },
+  {
+    "id": "anglerfish",
+    "cat": "The Hunt",
+    "accent": "6fffe0",
+    "scene": "MID_ANGLER",
+    "hero": 7.5,
+    "depthM": 1500,
+    "title": "The Lure in the Dark",
+    "sub": "A light, in a place with no light",
+    "blurb": "The anglerfish dangles a glowing lure in front of a mouth that can swallow prey larger than itself. The glow is not hers: it comes from bacteria she houses inside the lure, and she cannot make it without them.",
+    "stats": [
+      ["The light", "made by bacteria she hosts"],
+      ["Why it works", "light means food down here"],
+      ["Mouth", "can take prey larger than itself"]
+    ]
+  },
+  {
+    "id": "fused-male",
+    "cat": "The Hunt",
+    "accent": "ffa0c0",
+    "scene": "MID_FUSION",
+    "hero": 8.4,
+    "depthM": 1600,
+    "title": "The Male That Fuses",
+    "sub": "He finds her once, and never lets go",
+    "blurb": "In many anglerfish the male is a fraction of the size of the female. He bites on, their skin grows together, their bloodstreams join, and he is absorbed until little is left of him but his gonads. A female can carry several at once.",
+    "stats": [
+      ["Female", "up to about 1 m"],
+      ["Male", "a few centimetres"],
+      ["What happens", "he fuses and is absorbed"],
+      ["Males per female", "sometimes several"]
+    ]
+  },
+  {
+    "id": "whale-fall",
+    "cat": "Life From Above",
+    "accent": "d8c08f",
+    "scene": "MID_WHALEFALL",
+    "hero": 9.5,
+    "depthM": 3000,
+    "title": "A Whale Fall",
+    "sub": "One death feeds a century",
+    "blurb": "A dead whale reaching the floor drops more food on one spot than that patch of seabed would normally get in two thousand years. Sharks come first, then worms, then bacteria living on the oil in the bones — and some species are found nowhere else.",
+    "stats": [
+      ["Lasts", "decades, sometimes a century"],
+      ["Food delivered", "millennia worth, at once"],
+      ["Specialists", "species found only on whale bones"]
+    ]
+  },
+  {
+    "id": "dumbo",
+    "cat": "Life From Above",
+    "accent": "ffb07f",
+    "scene": "MID_DUMBO",
+    "hero": 8.0,
+    "depthM": 4000,
+    "title": "The Deepest Octopus",
+    "sub": "Flapping along at seven kilometres down",
+    "blurb": "The dumbo octopus swims by flapping two ear-like fins rather than by jetting. One was filmed in the Java Trench at 6,957 metres in 2020, the deepest an octopus has ever been seen. It has no ink sac — down there, there is nothing to hide from in a cloud of black.",
+    "stats": [
+      ["Record depth", "6,957 m"],
+      ["Where", "Java Trench, 2020"],
+      ["Swims by", "flapping its fins"],
+      ["Ink sac", "none"]
+    ]
+  }
+]
